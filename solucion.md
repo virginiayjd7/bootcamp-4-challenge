@@ -12,7 +12,7 @@ Sube la imagen de Docker a DockerHub.
 
 ![](2.png)
 
-DockerHub[Dockerfile](https://hub.docker.com/r/yjd7/ubuntu)
+[DockerHub](https://hub.docker.com/r/yjd7/ubuntu)
 
 ## Práctica 3
 
