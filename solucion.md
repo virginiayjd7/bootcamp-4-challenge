@@ -11,6 +11,7 @@ Dado este proyecto en NodeJS, crea su Dockerfile sabiendo que nos han pedido com
 Sube la imagen de Docker a DockerHub.
 
 ![](2.png)
+
 DockerHub[Dockerfile](https://hub.docker.com/r/yjd7/ubuntu)
 
 ## Práctica 3
