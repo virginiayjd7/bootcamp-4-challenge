@@ -6,7 +6,7 @@ on:
 
 env :
   REGISTRY: yjd7
-  IMAGE_NAME: bootcamp-backend-docker
+  IMAGE_NAME: bootcamp-backend-docker-yjd7
 
 jobs:
 
@@ -53,7 +53,7 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "bootcamp-backend-docker" 
+          heroku_app_name: "bootcamp-backend-docker-yjd7" 
           heroku_email: "yanaquinoh@upt.pe"
           usedocker: true  
 
