@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///home/virginiayjd7/bootcamp-4-challenge/.github/workflows/deploy.yml"
+    }
+}
