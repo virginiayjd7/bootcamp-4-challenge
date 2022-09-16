@@ -6,7 +6,7 @@ var app = express();
 
 app.get('/', function (req, res) {
   console.log(req);
-  res.send('Bienvenido Virginia Aquino');
+  res.send('Bienvenido Virginia Aquino :)');
 });
 
 app.get('/:name', function (req, res) {
